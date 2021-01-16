@@ -1,0 +1,63 @@
+body {
+  background-color: #808080;
+ }
+
+.logo {
+  width: 50px;
+  height: 50px;
+}
+
+
+.jumbo {
+  padding-bottom: 10px;
+  margin-bottom: 0px;
+  background-color: #497786;
+  display: flex;
+  justify-content: space-around;
+}
+
+
+.anav {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.column1 {
+  font-size: 40px;
+  background-color: #D3D3D3;
+  padding-top: 50px;
+  padding-left: 100px;
+  padding-right: 40px;
+}
+
+.train {
+  width: 100%;
+  height: 400px;
+}
+
+.column3 {
+  background-color: #c0c0c0; 
+}
+
+
+
+.line {
+  background-color: #A9A9A9;
+  margin-bottom: 0px; 
+}
+
+.column4 {
+  background-color: #A9A9A9;
+  width: 100%;
+  padding-left: 80px;
+  padding-right: 50px;
+  padding-top: 10px;
+
+ }
+
+.card1, .card2, .card3, .card4 {
+  width: 100%;
+}
+
+
+
